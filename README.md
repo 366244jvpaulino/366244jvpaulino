@@ -4,8 +4,8 @@
       <img src="https://github.com/366244jvpaulino/366244jvpaulino/raw/main/200.webp" alt="Homer Simpson" width="100%">
     </td>
     <td>
-      <h1>Olá! Bem-vindo(a) ao meu perfil do GitHub ✨</h1>
-      <h3>Estudante de Desenvolvimento de Software</h3>
+      <h1>Olá! Bem-vindo ao meu perfil do GitHub ✨</h1>
+      <h3> Sou operador de Gerador elétrico em uma Usina sucroalcooleira USJ estudante de Desenvolvimento de Software</h3>
       <p>Aprendendo e construindo projetos com Python, Java e desenvolvimento web.</p>
       <a href="https://www.linkedin.com/in/SEU_USUARIO">
         <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn">
